@@ -4,7 +4,6 @@ import random
 
 vitoria_usuario = 0
 vitoria_pc = 0
-empate = 0
 opcoes = ["Pedra","Papel", "Tesoura"]
 opcoes[0]
 
